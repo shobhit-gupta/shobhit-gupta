@@ -1,6 +1,7 @@
 - <img src="https://www.codewars.com/users/shobhit-gupta/badges/small" />
 - 👋 Hi, I’m @shobhit-gupta
-- 👀 I’m interested in Computer Science & Mathematics 
+- 👀 Lifelong learner. I'm interested in Computer Science, Mathematics, Design and Business
+- 🫶 Love startup environment
 - 🤖 Generally favour to use Git, Docker, Kubernetes, etc. or better tools/services
 - Blockchain: Smart Contracts (Foundry/Hardhat/Truffle), EVM, Auditing, TLA+, Certora, L2s etc.
 - Frontend framework agnostic but, I love: Svelte + SvelteKit + tailwindcss
